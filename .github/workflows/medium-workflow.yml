@@ -1,6 +1,7 @@
-name: Latest Medium Story Workflow
+name: Latest Medium story workflow
 on:
   schedule:
+    # Runs every hour
     - cron: '0 * * * *'
   workflow_dispatch:
 
@@ -10,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: kalibetre/kalibetre@main
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MEDIUM-STORY-LIST"
           feed_list: "https://medium.com/feed/@kalibetre"
