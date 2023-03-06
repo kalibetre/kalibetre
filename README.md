@@ -26,3 +26,7 @@ I'm a versatile full-stack software developer with a passion for crafting elegan
 ![](https://github-readme-stats.vercel.app/api?username=kalibetre&show_icons=true&theme=nord&hide_border=true&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kalibetre&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalibetre&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## Latest Blogs
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
